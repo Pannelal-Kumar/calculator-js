@@ -86,15 +86,3 @@ h2{
   }
 
 
-@media (max-width: 767px) {
-    html,body{
-        font-size: 45%;
-    }
-  }
-
-
-@media (max-width: 575px) {
-    html,body{
-        font-size: 40%;
-    }
-  }
